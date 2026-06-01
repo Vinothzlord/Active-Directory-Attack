@@ -92,7 +92,7 @@ Persistence
 
 ## Report
 
-📄 **Full Lab Report:** [Download PDF](./Active_Directory_Attack_Lab_Report.pdf)
+📄 **Full Lab Report:** [Download PDF](./Active%20Directory%20Attack.pdf)
 
 ---
 
